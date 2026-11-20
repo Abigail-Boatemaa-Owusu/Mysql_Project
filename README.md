@@ -58,7 +58,12 @@ This is a project provides a detailed overview on top 200 richest World's Billio
  
 ## 9.  Identify billionaires whose net worth exceeds the overall average net worth.
  ![](9.PNG)
-
+ ![](91.PNG) 
+  ![](92.PNG) 
+   ![](93.PNG) 
+    ![](94.PNG)
+     ![](95.PNG) 
+      ![](96.PNG) 
 ## 10.Identify the industry with the highest average net worth.
  ![](10.PNG)
 
@@ -66,9 +71,9 @@ This is a project provides a detailed overview on top 200 richest World's Billio
  ![](11.PNG)
  
 ## 12. Which country has the highest combined billionaire wealth?
-     ![](12.PNG)
+ ![](12.PNG) 
 ## 13. Which country has the highest average billionaire net worth?
-     ![](13.PNG)
+![](13.PNG) 
 ## 14. Which industries have at least 10 billionaires?
  ![](14.PNG)
  
@@ -82,7 +87,7 @@ This is a project provides a detailed overview on top 200 richest World's Billio
  ![](17.PNG)
  
 ## 18. Which country has the highest number of billionaires below age 40?
-     ![](18.PNG)
+ ![](18.PNG) 
      
 ## 19. Which industry contributes the most to the combined wealth of the top 200?
  ![](19.PNG)
@@ -91,7 +96,7 @@ This is a project provides a detailed overview on top 200 richest World's Billio
  ![](20.PNG)
  
 ## 21. What is the average net worth of billionaires aged above 70?
-     ![](21.PNG)
+ ![](21.PNG) 
      
 ## 22. Which billionaires belong to industries with more than 10 representatives?
  ![](22.PNG)
