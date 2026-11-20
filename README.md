@@ -1,10 +1,7 @@
 # Mysql_Project on Top200 Richest Worlds Billionaire
 This is a project provides a detailed overview on top 200 richest World's Billionaires individuals globally, according to the Forbes list. 
-# RainFall_Trends_Over_Time
-This project contains rainfall Trends from the period of 2023- 2025
-## Dashboard
 
-Business Questions
+## Business Questions
 ## 1. Retrieve the 20 richest billionaires.
   ![](1.PNG) 
   ![](1cont.PNG)
